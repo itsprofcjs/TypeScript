@@ -1,0 +1,14 @@
+node_modules/
+npm-debug.log
+dist/*
+static/dist/*
+.DS_Store
+*.iml
+webpack-assets.json
+webpack-stats.json
+*.swp
+scratch/
+*.rdb
+*.tar.gz
+*.sh
+.cache
