@@ -1,4 +1,6 @@
 Changes
+### [1.0.1-alpha.0](https://github.com/itsprofcjs/TypeScript/compare/v1.0.0...v1.0.1-alpha.0) (2020-05-03)
+
 ## 1.0.0 (2020-05-03)
 
 
