@@ -12,3 +12,4 @@ scratch/
 *.tar.gz
 *.sh
 .cache
+*.tgz
