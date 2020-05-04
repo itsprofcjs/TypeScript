@@ -1,39 +1,39 @@
 {
-  "name": "typescript-apps",
-  "version": "0.0.0-development",
-  "description": "",
-  "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/itsprofcjs/TypeScript.git"
-  },
-  "keywords": [],
-  "author": {
-    "email": "itsprofcjs@gmail.com",
-    "name": "Rupesh Kumar Singh",
-    "url": "https://github.com/itsprofcjs"
-  },
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/itsprofcjs/TypeScript/issues"
-  },
-  "homepage": "https://github.com/itsprofcjs/TypeScript#readme",
-  "scripts": {
-    "start": "parcel index.html",
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "semantic-release": "semantic-release"
-  },
-  "dependencies": {
-    "faker": "4.1.0"
-  },
-  "devDependencies": {
-    "@types/faker": "4.1.11",
-    "@types/googlemaps": "3.39.3",
-    "parcel-bundler": "1.12.4",
-    "semantic-release": "^17.0.7",
-    "typescript": "3.8.3"
-  },
-  "publishConfig": {
-    "registry": "http://localhost:4873"
-  }
+    "name": "typescript-apps",
+    "version": "0.0.0-development",
+    "description": "",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/itsprofcjs/TypeScript.git"
+    },
+    "keywords": [],
+    "author": {
+        "email": "itsprofcjs@gmail.com",
+        "name": "Rupesh Kumar Singh",
+        "url": "https://github.com/itsprofcjs"
+    },
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/itsprofcjs/TypeScript/issues"
+    },
+    "homepage": "https://github.com/itsprofcjs/TypeScript#readme",
+    "scripts": {
+        "start": "parcel index.html",
+        "test": "echo \"Error: no test specified\" && exit 0",
+        "semantic-release": "semantic-release"
+    },
+    "dependencies": {
+        "faker": "4.1.0"
+    },
+    "devDependencies": {
+        "@types/faker": "4.1.11",
+        "@types/googlemaps": "3.39.3",
+        "parcel-bundler": "1.12.4",
+        "semantic-release": "^17.0.7",
+        "typescript": "3.8.3"
+    },
+    "publishConfig": {
+        "registry": "http://localhost:4873"
+    }
 }
