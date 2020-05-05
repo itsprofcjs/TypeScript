@@ -1,3 +1,15 @@
+# [1.1.0](https://github.com/itsprofcjs/TypeScript/compare/v1.0.0...v1.1.0) (2020-05-05)
+
+
+### Bug Fixes
+
+* **ci:** Travis config ([1ff2dde](https://github.com/itsprofcjs/TypeScript/commit/1ff2ddef73b4ddc30a946ebd9d695e3b3883033f))
+
+
+### Features
+
+* **release:** Fully automated relase ([125f3e8](https://github.com/itsprofcjs/TypeScript/commit/125f3e80327cca4305f5d33bad938b5a96b2f7e6))
+
 # 1.0.0 (2020-05-04)
 
 
