@@ -1,3 +1,20 @@
+# [2.0.0-beta.1](https://github.com/itsprofcjs/TypeScript/compare/v1.1.0...v2.0.0-beta.1) (2020-05-06)
+
+
+### Bug Fixes
+
+* **travis:** Travis configuration for CI/CD on all branches ([c5fb34d](https://github.com/itsprofcjs/TypeScript/commit/c5fb34d9b10297524a7a0e4358903ad1d180cbf9))
+
+
+### Features
+
+* Module wise app ([49c96e8](https://github.com/itsprofcjs/TypeScript/commit/49c96e8f67b59f07556395f06ac3c5b2d317bd76))
+
+
+### BREAKING CHANGES
+
+* It break Typescript Apps delivery system
+
 # [1.1.0](https://github.com/itsprofcjs/TypeScript/compare/v1.0.0...v1.1.0) (2020-05-05)
 
 
