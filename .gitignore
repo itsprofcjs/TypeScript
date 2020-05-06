@@ -13,3 +13,4 @@ scratch/
 *.sh
 .cache
 *.tgz
+build/
