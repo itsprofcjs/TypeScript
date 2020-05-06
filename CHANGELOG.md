@@ -1,3 +1,18 @@
+# [2.0.0-beta.2](https://github.com/itsprofcjs/TypeScript/compare/v2.0.0-beta.1...v2.0.0-beta.2) (2020-05-06)
+
+
+### Features
+
+* **sort:** Basic sort feature limited to number sorting ([dcadc65](https://github.com/itsprofcjs/TypeScript/commit/dcadc65cc89440d58567a95af25699132f8f6d47))
+* **sort:** Character sort now available! ([85d8e09](https://github.com/itsprofcjs/TypeScript/commit/85d8e099819d00888cadb6ff0258341b3eb38dff))
+* **sort:** Linked list sorting now available! ([37f1333](https://github.com/itsprofcjs/TypeScript/commit/37f133354aab6b262c1781c958bc9bfede3fcf87))
+* **sort:** Sort feature with simple Apis ([61999fb](https://github.com/itsprofcjs/TypeScript/commit/61999fbd1ded9188f5889baa403379275b2e92b3))
+
+
+### Performance Improvements
+
+* **bad:** Bad code implementation of sort. Only valid for number ([3399300](https://github.com/itsprofcjs/TypeScript/commit/3399300c1c31fc45385fa8d5fea2b201aec6e3ff))
+
 # [2.0.0-beta.1](https://github.com/itsprofcjs/TypeScript/compare/v1.1.0...v2.0.0-beta.1) (2020-05-06)
 
 
