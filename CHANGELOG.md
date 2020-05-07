@@ -1,3 +1,10 @@
+# [2.1.0-beta.5](https://github.com/itsprofcjs/TypeScript/compare/v2.1.0-beta.4...v2.1.0-beta.5) (2020-05-07)
+
+
+### Bug Fixes
+
+* **release:** Fixes updation of release ([596026c](https://github.com/itsprofcjs/TypeScript/commit/596026c48283b74512dfc09b392db0d417aa4639))
+
 # [2.1.0-beta.4](https://github.com/itsprofcjs/TypeScript/compare/v2.1.0-beta.3...v2.1.0-beta.4) (2020-05-07)
 
 
