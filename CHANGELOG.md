@@ -1,3 +1,11 @@
+# [2.1.0-beta.4](https://github.com/itsprofcjs/TypeScript/compare/v2.1.0-beta.3...v2.1.0-beta.4) (2020-05-07)
+
+
+### Features
+
+* **stats:** Default set to csv file reader and html reporting ([df6ebe3](https://github.com/itsprofcjs/TypeScript/commit/df6ebe3b1d9714a08f0bc8bb1b8040394a6a54dd))
+* **stats:** File reader,reporting and Analysis ([a9f4c54](https://github.com/itsprofcjs/TypeScript/commit/a9f4c54b62e4edcfd5dff96adcd61b52621e7fa2))
+
 # [2.1.0-beta.3](https://github.com/itsprofcjs/TypeScript/compare/v2.1.0-beta.2...v2.1.0-beta.3) (2020-05-07)
 
 
