@@ -1,3 +1,10 @@
+# [2.1.0-beta.3](https://github.com/itsprofcjs/TypeScript/compare/v2.1.0-beta.2...v2.1.0-beta.3) (2020-05-07)
+
+
+### Bug Fixes
+
+* **stats:** Deafult report issue ([3671161](https://github.com/itsprofcjs/TypeScript/commit/367116145cfb8fda02514b53136bdfe1baca1ccc))
+
 # [2.1.0-beta.2](https://github.com/itsprofcjs/TypeScript/compare/v2.1.0-beta.1...v2.1.0-beta.2) (2020-05-07)
 
 
