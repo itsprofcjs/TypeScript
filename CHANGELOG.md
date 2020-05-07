@@ -1,3 +1,24 @@
+# [2.1.0](https://github.com/itsprofcjs/TypeScript/compare/v2.0.0...v2.1.0) (2020-05-07)
+
+
+### Bug Fixes
+
+* **release:** Fixes updation of release ([596026c](https://github.com/itsprofcjs/TypeScript/commit/596026c48283b74512dfc09b392db0d417aa4639))
+* **stats:** Deafult report issue ([3671161](https://github.com/itsprofcjs/TypeScript/commit/367116145cfb8fda02514b53136bdfe1baca1ccc))
+
+
+### Features
+
+* **stats:** Analyzers and reportTarget now supports multiple platform ([804fe8a](https://github.com/itsprofcjs/TypeScript/commit/804fe8a1c866086ba5d21917a6e83fff5867d1ea))
+* **stats:** Basic reporting of Teams ([f9c0429](https://github.com/itsprofcjs/TypeScript/commit/f9c0429031119a2cea28e8f9a028ac3bb767a809))
+* **stats:** Composition based implementation available ([c07dee2](https://github.com/itsprofcjs/TypeScript/commit/c07dee2523388f4fdfc4b59fe32ad1a9f095fd2a))
+* **stats:** Csv file reader can be used for Match Result ([880505a](https://github.com/itsprofcjs/TypeScript/commit/880505a47d21660956865d7a48aa605f55be7106))
+* **stats:** Default set to csv file reader and html reporting ([df6ebe3](https://github.com/itsprofcjs/TypeScript/commit/df6ebe3b1d9714a08f0bc8bb1b8040394a6a54dd))
+* **stats:** File reader,reporting and Analysis ([a9f4c54](https://github.com/itsprofcjs/TypeScript/commit/a9f4c54b62e4edcfd5dff96adcd61b52621e7fa2))
+* **stats:** Inheritance based Solution ([968a9ee](https://github.com/itsprofcjs/TypeScript/commit/968a9eee709fe882fedb4c14bf3ed0113e9dd4e8))
+* **stats:** Report generation supports Html format ([53c60d2](https://github.com/itsprofcjs/TypeScript/commit/53c60d22c402fbcf509e908fe8460e15d55bff75))
+* **stats:** Stats now available! ([227b1b7](https://github.com/itsprofcjs/TypeScript/commit/227b1b7fa272f256c22808f4166ba91a387e7050))
+
 # [2.1.0-beta.5](https://github.com/itsprofcjs/TypeScript/compare/v2.1.0-beta.4...v2.1.0-beta.5) (2020-05-07)
 
 
