@@ -1,3 +1,11 @@
+# [2.1.0-beta.1](https://github.com/itsprofcjs/TypeScript/compare/v2.0.0...v2.1.0-beta.1) (2020-05-07)
+
+
+### Features
+
+* **stats:** Basic reporting of Teams ([f9c0429](https://github.com/itsprofcjs/TypeScript/commit/f9c0429031119a2cea28e8f9a028ac3bb767a809))
+* **stats:** Csv file reader can be used for Match Result ([880505a](https://github.com/itsprofcjs/TypeScript/commit/880505a47d21660956865d7a48aa605f55be7106))
+
 # [2.0.0](https://github.com/itsprofcjs/TypeScript/compare/v1.1.0...v2.0.0) (2020-05-06)
 
 
