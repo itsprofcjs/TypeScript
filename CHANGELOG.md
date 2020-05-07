@@ -1,3 +1,13 @@
+# [2.1.0-beta.2](https://github.com/itsprofcjs/TypeScript/compare/v2.1.0-beta.1...v2.1.0-beta.2) (2020-05-07)
+
+
+### Features
+
+* **stats:** Analyzers and reportTarget now supports multiple platform ([804fe8a](https://github.com/itsprofcjs/TypeScript/commit/804fe8a1c866086ba5d21917a6e83fff5867d1ea))
+* **stats:** Composition based implementation available ([c07dee2](https://github.com/itsprofcjs/TypeScript/commit/c07dee2523388f4fdfc4b59fe32ad1a9f095fd2a))
+* **stats:** Inheritance based Solution ([968a9ee](https://github.com/itsprofcjs/TypeScript/commit/968a9eee709fe882fedb4c14bf3ed0113e9dd4e8))
+* **stats:** Report generation supports Html format ([53c60d2](https://github.com/itsprofcjs/TypeScript/commit/53c60d22c402fbcf509e908fe8460e15d55bff75))
+
 # [2.1.0-beta.1](https://github.com/itsprofcjs/TypeScript/compare/v2.0.0...v2.1.0-beta.1) (2020-05-07)
 
 
