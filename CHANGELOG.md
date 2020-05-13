@@ -1,3 +1,14 @@
+# [2.2.0](https://github.com/itsprofcjs/TypeScript/compare/v2.1.0...v2.2.0) (2020-05-13)
+
+
+### Features
+
+* **web:** List of All Users now supported ([df2f1cd](https://github.com/itsprofcjs/TypeScript/commit/df2f1cdf75d689ee6e969d2ce270a4eb68a5c8e0))
+* **web:** Mega user CRU available ([32c7e8c](https://github.com/itsprofcjs/TypeScript/commit/32c7e8cb6adf8e1d1b74d74df52cca365854f6b4))
+* **web:** Model refatored with inheritance and composition ([589d468](https://github.com/itsprofcjs/TypeScript/commit/589d468f1bb5cfe356a3c9ce048e804b948f6cbd))
+* **web:** User Collection now available ([97da89f](https://github.com/itsprofcjs/TypeScript/commit/97da89fbcc16f81408a892911da346f4bd1c8a3e))
+* **web:** User view, edit and save now available! ([fa764f4](https://github.com/itsprofcjs/TypeScript/commit/fa764f42930e58984fea051e5a3e7d4eaed5111f))
+
 # [2.2.0-beta.1](https://github.com/itsprofcjs/TypeScript/compare/v2.1.0...v2.2.0-beta.1) (2020-05-13)
 
 
