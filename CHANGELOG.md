@@ -1,3 +1,10 @@
+# [2.3.0-alpha.1](https://github.com/itsprofcjs/TypeScript/compare/v2.2.0...v2.3.0-alpha.1) (2020-05-13)
+
+
+### Features
+
+* **alpha:** Feature list ([aebd2db](https://github.com/itsprofcjs/TypeScript/commit/aebd2dbc9bfd3d421ea7c63d0a681d43e662963c))
+
 # [2.2.0](https://github.com/itsprofcjs/TypeScript/compare/v2.1.0...v2.2.0) (2020-05-13)
 
 
