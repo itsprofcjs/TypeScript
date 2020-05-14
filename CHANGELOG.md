@@ -1,3 +1,12 @@
+# [2.3.0-beta.1](https://github.com/itsprofcjs/TypeScript/compare/v2.2.0...v2.3.0-beta.1) (2020-05-14)
+
+
+### Features
+
+* **alpha:** Feature list ([aebd2db](https://github.com/itsprofcjs/TypeScript/commit/aebd2dbc9bfd3d421ea7c63d0a681d43e662963c))
+* **server:** Express server with protected routes now available! ([b84f809](https://github.com/itsprofcjs/TypeScript/commit/b84f80962313bad3742a87d4098105d72f3e92a1))
+* **server:** Server now available ([a6c8bf4](https://github.com/itsprofcjs/TypeScript/commit/a6c8bf4dbcb947478166b0f0c2d75d0bd903949d))
+
 # [2.3.0-alpha.2](https://github.com/itsprofcjs/TypeScript/compare/v2.3.0-alpha.1...v2.3.0-alpha.2) (2020-05-14)
 
 
