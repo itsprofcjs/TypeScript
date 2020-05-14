@@ -4,3 +4,4 @@ Features:
     * Maps
     * Sort
     * Web
+    * Server
