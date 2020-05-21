@@ -1,3 +1,12 @@
+# [2.4.0-beta.1](https://github.com/itsprofcjs/TypeScript/compare/v2.3.0...v2.4.0-beta.1) (2020-05-21)
+
+
+### Features
+
+* **rrts:** Actions, reducers to fetch tods ([9d53c45](https://github.com/itsprofcjs/TypeScript/commit/9d53c45c439ffef5aa38985c9e95ebb0172b5aa4))
+* **rrts:** App with minimal featues ([11e528a](https://github.com/itsprofcjs/TypeScript/commit/11e528ad524d1924f65bcc5719db53f76566e9b8))
+* **rrts:** Todo now available ([537c8e1](https://github.com/itsprofcjs/TypeScript/commit/537c8e1c9e906f4c2a68edd1d3977ab0599d6f76))
+
 # [2.3.0](https://github.com/itsprofcjs/TypeScript/compare/v2.2.0...v2.3.0) (2020-05-15)
 
 
